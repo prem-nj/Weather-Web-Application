@@ -91,7 +91,8 @@ Edit
 const apikey = "YOUR_API_KEY";
 Run: Enter a city name in the search bar and click the search button to view the weather details.
 
-##How It Works ⚙️
+How It Works ⚙️
+---------------------------
 Search Input: Users enter the name of a city in the input box.
 API Call: The app sends a request to the OpenWeatherMap API using the city name.
 Loading State: While fetching data, a loading animation is displayed.
