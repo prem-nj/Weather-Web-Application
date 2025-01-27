@@ -93,17 +93,20 @@ Run: Enter a city name in the search bar and click the search button to view the
 
 How It Works ⚙️
 ---------------------------
-Search Input: Users enter the name of a city in the input box.
-API Call: The app sends a request to the OpenWeatherMap API using the city name.
-Loading State: While fetching data, a loading animation is displayed.
-Display Data:
-If the city is found, weather details are displayed dynamically.
-If the city is not found, an error message appears.
+-**Search Input: Users enter the name of a city in the input box.
+-**API Call: The app sends a request to the OpenWeatherMap API using the city name.
+-**Loading State: While fetching data, a loading animation is displayed.
+-**Display Data:
+-**If the city is found, weather details are displayed dynamically.
+-**If the city is not found, an error message appears.**
 ---------------------------------------------------
 Demo 🌐
 Here's a preview of the app:
 
+![image](https://github.com/user-attachments/assets/08456036-6d47-43e0-8ba0-41fcc59628a6)
 
+
+----------------------------------------------------
 Customization 🎨
 Weather Icons: Replace the images in the images folder with your custom icons.
 Styling: Modify wthr.css to change the design.
