@@ -136,7 +136,8 @@ Weather data accuracy depends on the OpenWeatherMap API.
 License 📜
 
 This project is licensed under the MIT License. Feel free to modify and distribute the code.
----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------
 
 Contributions 🤝
 
