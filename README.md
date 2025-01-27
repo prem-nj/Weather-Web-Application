@@ -103,6 +103,7 @@ Loading State
 A loading animation is displayed while the app retrieves the weather data from the API.
 
 Display Data
+Display Data
 
 If the city is found, the app dynamically updates the interface to show:
 Temperature
@@ -110,6 +111,7 @@ Humidity
 Wind speed
 A weather icon matching the current conditions
 If the city is not found, an error message ("City not found") is displayed to notify the user.
+
 ---------------------------------------------------
 Demo 🌐
 Here's a preview of the app:
