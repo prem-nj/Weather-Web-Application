@@ -93,12 +93,23 @@ Run: Enter a city name in the search bar and click the search button to view the
 
 How It Works ⚙️
 ---------------------------
--**Search Input: Users enter the name of a city in the input box.
--**API Call: The app sends a request to the OpenWeatherMap API using the city name.
--**Loading State: While fetching data, a loading animation is displayed.
--**Display Data:
--**If the city is found, weather details are displayed dynamically.
--**If the city is not found, an error message appears.**
+Search Input
+Users can enter the name of a city in the input field provided.
+
+API Call
+The application sends a request to the OpenWeatherMap API with the entered city name to fetch real-time weather data.
+
+Loading State
+A loading animation is displayed while the app retrieves the weather data from the API.
+
+Display Data
+
+If the city is found, the app dynamically updates the interface to show:
+Temperature
+Humidity
+Wind speed
+A weather icon matching the current conditions
+If the city is not found, an error message ("City not found") is displayed to notify the user.
 ---------------------------------------------------
 Demo 🌐
 Here's a preview of the app:
