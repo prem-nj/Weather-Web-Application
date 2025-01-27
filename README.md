@@ -99,11 +99,11 @@ Display Data:
 If the city is found, weather details are displayed dynamically.
 If the city is not found, an error message appears.
 ---------------------------------------------------
-##Demo 🌐
+Demo 🌐
 Here's a preview of the app:
 
 
-##Customization 🎨
+Customization 🎨
 Weather Icons: Replace the images in the images folder with your custom icons.
 Styling: Modify wthr.css to change the design.
 Known Issues & Limitations 🐞
@@ -116,10 +116,10 @@ Implement geolocation to fetch weather based on the user's current location.
 License 📜
 This project is licensed under the MIT License. Feel free to modify and distribute the code.
 
-##Contributions 🤝
+Contributions 🤝
 Contributions are welcome! Create an issue or submit a pull request with your changes.
 
-##Acknowledgements 💡
+Acknowledgements 💡
 OpenWeatherMap API
 Icons and loading gif from public resources.
 
