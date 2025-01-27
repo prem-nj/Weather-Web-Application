@@ -119,25 +119,36 @@ Here's a preview of the app:
 ![image](https://github.com/user-attachments/assets/08456036-6d47-43e0-8ba0-41fcc59628a6)
 
 
-----------------------------------------------------
+---------------------------------------------------------------------------------------------
 Customization 🎨
+
 Weather Icons: Replace the images in the images folder with your custom icons.
 Styling: Modify wthr.css to change the design.
+
+------------------------------------------------------------------------------------
 Known Issues & Limitations 🐞
+
 The API key is hardcoded in the script. Consider using environment variables for better security.
 Weather data accuracy depends on the OpenWeatherMap API.
-Future Enhancements 🔮
-Add a 5-day weather forecast feature.
-Use local storage to save the last searched city.
-Implement geolocation to fetch weather based on the user's current location.
+
+-------------------------------------------------------------------------------------------
+
 License 📜
+
 This project is licensed under the MIT License. Feel free to modify and distribute the code.
+---------------------------------------------------------------------------------------------
 
 Contributions 🤝
+
 Contributions are welcome! Create an issue or submit a pull request with your changes.
 
+------------------------------------------------------------------------------------------
+
 Acknowledgements 💡
+
 OpenWeatherMap API
 Icons and loading gif from public resources.
+
+------------------------------------------------------------------------------------------
 
 Feel free to replace placeholders like prem-nj and the API key note with your specific details!
