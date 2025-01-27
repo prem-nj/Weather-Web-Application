@@ -23,8 +23,7 @@ A user-friendly web application that provides real-time weather information for 
 
 ---
 
-## Folder Structure 📂
-Weather-Web/ │ ├── index.html # Main HTML file ├── wthr.js # JavaScript functionality ├── wthr.css # Stylesheet for the project ├── images/ # Contains weather icons and other assets │ ├── clear.png # Icon for clear weather │ ├── cloudy.png # Icon for cloudy weather │ ├── drizzle.png # Icon for drizzle │ ├── mist.png # Icon for mist │ ├── rainy.png # Icon for rain │ └── wind.png # Icon for wind speed ├── loading.gif # Loading animation └── close.png # Icon for error message
+
 
 ---
 
